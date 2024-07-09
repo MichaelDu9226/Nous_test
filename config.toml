@@ -1,0 +1,8 @@
+esp_toml_version = 1.0
+firmware_images_url = "https://MichaelDu9226.github.io/esp-launchpad_test/bin/"
+
+supported_apps = ["Nous_Bootloader"]
+
+[Nous_Bootloader]
+chipsets = ["ESP32S3"]
+image.esp32s3 = "bootloader_0x0_0707.bin"
