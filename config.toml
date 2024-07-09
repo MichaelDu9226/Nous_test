@@ -1,5 +1,5 @@
 esp_toml_version = 1.0
-firmware_images_url = "https://MichaelDu9226.github.io/esp-launchpad_test/bin/"
+firmware_images_url = "https://MichaelDu9226.github.io/Nous_Bootloader/bin/"
 
 supported_apps = ["Nous_Bootloader"]
 
