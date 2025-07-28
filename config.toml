@@ -5,5 +5,5 @@ supported_apps = ["Nous_Bootloader"]
 
 [Nous_Bootloader]
 chipsets = ["ESP32S3"]
+offset = "0x10000"
 image.esp32s3 = "bootloader_0x0_0707.bin"
-offset = 0x10000
